@@ -11,7 +11,6 @@ CREATE TABLE news (
     "date_edited" timestamp without time zone,
     CONSTRAINT "news_pkey" PRIMARY KEY (id)
 ) WITHOUT OIDS;
-
 SQL
 ,
 );
